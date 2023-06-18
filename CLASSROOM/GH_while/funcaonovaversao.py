@@ -320,7 +320,4 @@ def contar_ocorrencias_caractere(texto, caractere_buscado, ignore_caixa_alta_e_b
 def buscar_substring(string,substring):
     tamanho = len(substring)
     for i in range(len(string)):
-
-
-'''def eh_digito(num):
-    return (48 <= ord(num) <= 57)'''
+        pass
