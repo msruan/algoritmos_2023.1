@@ -1,0 +1,3 @@
+/home/ruan/ifpi/algoritmos_2023.1/c&cpp/my_utils/build/CMakeFiles/my_program.dir
+/home/ruan/ifpi/algoritmos_2023.1/c&cpp/my_utils/build/CMakeFiles/edit_cache.dir
+/home/ruan/ifpi/algoritmos_2023.1/c&cpp/my_utils/build/CMakeFiles/rebuild_cache.dir

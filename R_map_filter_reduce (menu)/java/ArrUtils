@@ -1,0 +1,9 @@
+import java.util.function.Function;
+public class ArrUtils{
+    public static void main(String []args){}
+    public static <T> void mapear(T lista[], Function<T,T> funcao_transformadora){
+        for(int i = 0; i < lista.length; i++){
+            lista[i] = funcao_transformadora.apply(lista[i]);
+        }return lista;
+    }
+}

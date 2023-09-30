@@ -1,0 +1,1 @@
+/usr/bin/c++ -g CMakeFiles/my_program.dir/src/all_utils.cpp.o CMakeFiles/my_program.dir/src/io_utils.cpp.o CMakeFiles/my_program.dir/src/math_utils.cpp.o CMakeFiles/my_program.dir/src/string_utils.cpp.o CMakeFiles/my_program.dir/src/test.cpp.o CMakeFiles/my_program.dir/src/vector_utils.cpp.o -o my_program 

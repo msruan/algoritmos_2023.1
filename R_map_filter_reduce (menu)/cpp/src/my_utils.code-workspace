@@ -1,0 +1,17 @@
+{
+	"folders": [
+		{
+			"path": "../../../my_utils"
+		},
+		{
+			"path": ".."
+		}
+	],
+	"settings": {
+		"files.associations": {
+			"string": "cpp",
+			"string_view": "cpp"
+		},
+		"ros.distro": "humble"
+	}
+}

@@ -1,0 +1,32 @@
+[
+{
+  "directory": "/home/ruan/ifpi/algoritmos_2023.1/c&cpp/my_utils/build",
+  "command": "/usr/bin/c++  -I\"/home/ruan/ifpi/algoritmos_2023.1/c&cpp/my_utils/src\" -g -o CMakeFiles/my_program.dir/src/all_utils.cpp.o -c \"/home/ruan/ifpi/algoritmos_2023.1/c&cpp/my_utils/src/all_utils.cpp\"",
+  "file": "/home/ruan/ifpi/algoritmos_2023.1/c&cpp/my_utils/src/all_utils.cpp"
+},
+{
+  "directory": "/home/ruan/ifpi/algoritmos_2023.1/c&cpp/my_utils/build",
+  "command": "/usr/bin/c++  -I\"/home/ruan/ifpi/algoritmos_2023.1/c&cpp/my_utils/src\" -g -o CMakeFiles/my_program.dir/src/io_utils.cpp.o -c \"/home/ruan/ifpi/algoritmos_2023.1/c&cpp/my_utils/src/io_utils.cpp\"",
+  "file": "/home/ruan/ifpi/algoritmos_2023.1/c&cpp/my_utils/src/io_utils.cpp"
+},
+{
+  "directory": "/home/ruan/ifpi/algoritmos_2023.1/c&cpp/my_utils/build",
+  "command": "/usr/bin/c++  -I\"/home/ruan/ifpi/algoritmos_2023.1/c&cpp/my_utils/src\" -g -o CMakeFiles/my_program.dir/src/math_utils.cpp.o -c \"/home/ruan/ifpi/algoritmos_2023.1/c&cpp/my_utils/src/math_utils.cpp\"",
+  "file": "/home/ruan/ifpi/algoritmos_2023.1/c&cpp/my_utils/src/math_utils.cpp"
+},
+{
+  "directory": "/home/ruan/ifpi/algoritmos_2023.1/c&cpp/my_utils/build",
+  "command": "/usr/bin/c++  -I\"/home/ruan/ifpi/algoritmos_2023.1/c&cpp/my_utils/src\" -g -o CMakeFiles/my_program.dir/src/string_utils.cpp.o -c \"/home/ruan/ifpi/algoritmos_2023.1/c&cpp/my_utils/src/string_utils.cpp\"",
+  "file": "/home/ruan/ifpi/algoritmos_2023.1/c&cpp/my_utils/src/string_utils.cpp"
+},
+{
+  "directory": "/home/ruan/ifpi/algoritmos_2023.1/c&cpp/my_utils/build",
+  "command": "/usr/bin/c++  -I\"/home/ruan/ifpi/algoritmos_2023.1/c&cpp/my_utils/src\" -g -o CMakeFiles/my_program.dir/src/test.cpp.o -c \"/home/ruan/ifpi/algoritmos_2023.1/c&cpp/my_utils/src/test.cpp\"",
+  "file": "/home/ruan/ifpi/algoritmos_2023.1/c&cpp/my_utils/src/test.cpp"
+},
+{
+  "directory": "/home/ruan/ifpi/algoritmos_2023.1/c&cpp/my_utils/build",
+  "command": "/usr/bin/c++  -I\"/home/ruan/ifpi/algoritmos_2023.1/c&cpp/my_utils/src\" -g -o CMakeFiles/my_program.dir/src/vector_utils.cpp.o -c \"/home/ruan/ifpi/algoritmos_2023.1/c&cpp/my_utils/src/vector_utils.cpp\"",
+  "file": "/home/ruan/ifpi/algoritmos_2023.1/c&cpp/my_utils/src/vector_utils.cpp"
+}
+]
