@@ -1,0 +1,156 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="d35ebaf1-6dfe-48d0-8b69-68967e9033c0" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../../AB_variaveis/ab_kt/src/10.resto-e-quociente.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../AB_variaveis/ab_kt/src/25.metros-para-km-e-metros.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../AB_variaveis/ab_kt/src/32.diferenca-pro-inverso.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../AB_variaveis/ab_kt/src/33.soma-com-inverso.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../AB_variaveis/ab_kt/src/5.soma-cdu.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../AB/a_cpp/.vscode/c_cpp_properties.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../AB/a_cpp/.vscode/launch.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../AB/a_cpp/.vscode/settings.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../AB/a_cpp/01_velocidade.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../AB/a_cpp/02_horas.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../AB/a_cpp/03_minutos.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../AB/a_cpp/04_dolar.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../AB/a_cpp/05_cdu.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../AB/a_cpp/06_velocidade2.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../AB/a_cpp/07_trava_mente.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../AB/a_cpp/08_trava_mente_mente.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../AB/a_cpp/09_ordem_inversa.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../AB/a_cpp/10_quociente_resto.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../AB/a_cpp/11_inverso.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../AB/a_cpp/12_salario.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../AB/a_cpp/13_porcentagem.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../AB/a_cpp/14_media.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../AB/a_cpp/15_trinagulo.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../AB/a_cpp/16_quadrado.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../AB/a_cpp/17_retangulo.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../AB/a_cpp/18_circunferencia.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../AB/a_cpp/19_esfera.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../AB/a_cpp/20_temperatura_cf.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../AB/a_cpp/21_temperatura_fc.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../AB/a_cpp/22_distancia_m.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../AB/a_cpp/23_massa_m.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../AB/a_cpp/my_utils.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../AB/a_js/01.velocidade.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../AB/ab_java/.vscode/settings.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../AB/ab_java/Dolar.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../AB/ab_java/Numeros.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../AB/ab_java/Numeros.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../AB/ab_java/Temperatura.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../AB/ab_java/Temperatura.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../AB/ab_java/Tempo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../AB/ab_java/Tempo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../AB/ab_java/Velocidade.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../AB/ab_py/anos_meses.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../AB/ab_py/binario.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../AB/ab_py/caixa_eletronico_funcoes.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../AB/ab_py/carro.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../AB/ab_py/cdu.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../AB/ab_py/circunferência_funcoes.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../AB/ab_py/converter_km_m.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../AB/ab_py/dias_horas_minutos_funcoes.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../AB/ab_py/diff_inverso.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../AB/ab_py/distancia_m.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../AB/ab_py/distancia_pontos_funcoes.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../AB/ab_py/dolar.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../AB/ab_py/equacao_linear.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../AB/ab_py/esfera.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../AB/ab_py/expressao_funcoes.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../AB/ab_py/horas.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../AB/ab_py/idade_anos_meses_dias.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../AB/ab_py/idade_dias_funcoes.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../AB/ab_py/inverso.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../AB/ab_py/latao.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../AB/ab_py/lol_gasoso.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../AB/ab_py/massa_m.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../AB/ab_py/media.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../AB/ab_py/media_numeros.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../AB/ab_py/minutos_funcoes.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../AB/ab_py/order_inversa_funcoes.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../AB/ab_py/porcentagem.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../AB/ab_py/quadrado.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../AB/ab_py/quociente_resto.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../AB/ab_py/retangulo.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../AB/ab_py/salario_funcoes.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../AB/ab_py/segundos_horas_minutos_funcoes.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../AB/ab_py/semanas_dias.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../AB/ab_py/semanas_diass_horas_.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../AB/ab_py/soma_elementos.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../AB/ab_py/soma_fracoes.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../AB/ab_py/soma_inverso_funcoes.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../AB/ab_py/temperatura_cf.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../AB/ab_py/temperatura_fc_funcoes.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../AB/ab_py/trava_mente.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../AB/ab_py/trava_mente_mente.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../AB/ab_py/triangulo_funcoes.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../AB/ab_py/valor_cm_funcoes.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../AB/ab_py/velocidade.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../AB/ab_py/velocidade2_funcoes.py" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Kotlin File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 0
+}]]></component>
+  <component name="ProjectId" id="2aN7FC1C4ONFiOpLtuNKaOrVZJ2" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "main",
+    "kotlin-language-version-configured": "true",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "onboarding.tips.debug.path": "/home/ruanm/Codes/algoritmos_2023.1/EF_condicionais/kt/src/Main.kt",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="jdk-21.0.1-openjdk-21.0.1-f644763e9732-76dd8dae" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d35ebaf1-6dfe-48d0-8b69-68967e9033c0" name="Changes" comment="" />
+      <created>1704147092251</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1704147092251</updated>
+      <workItem from="1704147093696" duration="1086000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
